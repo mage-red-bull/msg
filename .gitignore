@@ -1,0 +1,6 @@
+.idea/
+decrypt.php
+msg.php
+/include/cryptico.min.js
+/include/jquery.jcryption.3.1.0.js
+/include/rsa*.pem
